@@ -6,5 +6,5 @@ function getFormvalue() {
 
 	var fullName = firstName + " " + lastName;
 
-	alert(fullname);
+	alert(fullName);
 }
